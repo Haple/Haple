@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java microservices to a payment system.
-- 🌱 I’m currently learning NodeJS and ReactJS
-- 💬 Ask me about backend stuff :) 
-- 📫 How to reach me: https://www.linkedin.com/in/aleph-santos-oliveira/
+🔭 I’m currently working on Java microservices to a payment system
+
+🌱 I’m currently learning NodeJS and ReactJS
+
+💬 Ask me about backend stuff :) 
+
+📫 How to reach me: https://www.linkedin.com/in/aleph-santos-oliveira/
 
 <!--
 **Haple/Haple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
